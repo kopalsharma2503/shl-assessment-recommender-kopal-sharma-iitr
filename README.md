@@ -51,6 +51,8 @@ The system consists of three main components:
 - Visual analytics of recommended assessments
 - Direct links to assessment details
 
+demo video: https://drive.google.com/file/d/1BMK2F7m4A8ErbfJx_29cAAjH9nWoWKFP/view
+
 ## 📊 How It Works
 
 ### 1. Data Collection
@@ -208,7 +210,7 @@ Install dependencies
 Configure security groups
 Run application with PM2 or systemd
 
-demo video: https://drive.google.com/file/d/1BMK2F7m4A8ErbfJx_29cAAjH9nWoWKFP/view
+
 
 📊 Performance Optimization
 
