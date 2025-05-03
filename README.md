@@ -208,6 +208,8 @@ Install dependencies
 Configure security groups
 Run application with PM2 or systemd
 
+demo video: https://drive.google.com/file/d/1BMK2F7m4A8ErbfJx_29cAAjH9nWoWKFP/view
+
 📊 Performance Optimization
 
 Embedding Caching: Stores computed embeddings to disk
